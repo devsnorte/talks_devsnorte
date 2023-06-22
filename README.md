@@ -1,6 +1,6 @@
 # Talks Devs Norte
 
-Repositório para aramazenar slides das apresentações em encontros presenciais da comunidade Devs Norte.
+Repositório para armazenar slides das apresentações em encontros presenciais da comunidade Devs Norte.
 
 Usar separação por [edição] -> [nome_palestrante] -> arquivo.
 
