@@ -1,0 +1,6 @@
+name: workshop-ci
+services:
+- name: web
+  git:
+    repo_clone_url: https://github.com/rodrigo-silva7/workshop-ci-app.git
+    branch: homolog
